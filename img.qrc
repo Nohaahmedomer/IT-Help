@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>database-delete-icon.png</file>
+    <file>images.png</file>
+    <file>delete-button-icon-blue-glossy-with-shadow-free-vector-fotor-bg-remover-2023090112361.png</file>
+    <file>delete-button-icon-blue-glossy-with-shadow-free-vector.jpg</file>
+    <file>9243391-fotor-bg-remover-20230831161326.png</file>
+    <file>1-fotor-bg-remover-20230901122841.png</file>
+    <file>9243391.png</file>
+    <file>50357744-ajouter-à-l-icône-de-base-de-données.jpg</file>
+    <file>new-database.png</file>
+    <file>img.qrc</file>
+    <file>images-fotor-bg-remover-20230804215155.png</file>
+    <file>360_F_167594893_dWtiBCm2kkQGeeIGcJSGKryKItZ8XAI1.jpg</file>
+    <file>5170843-fotor-bg-remover-2023080422148.png</file>
+    <file>6510583-fotor-bg-remover-20230805182240.png</file>
+    <file>download.png</file>
+  </qresource>
+</RCC>
